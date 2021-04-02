@@ -1,0 +1,29 @@
+{
+  "name": "motivational-messages",
+  "version": "1.0.1",
+  "description": "Motivational messages for any moment.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Maria de la Rosa <mariadlr1224@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "motivational-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariadlRosa-1224/motivational-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MariadlRosa-1224/motivational-messages/issues"
+  },
+  "homepage": "https://github.com/MariadlRosa-1224/motivational-messages#readme"
+}
